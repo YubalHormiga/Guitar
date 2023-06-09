@@ -1,6 +1,5 @@
 # Vue 3 + Vite
 
-# Vue 3 + Vite
 
 Durante mi **proyecto de Vue**, he aprendido a utilizar los siguientes conceptos fundamentales:
 
